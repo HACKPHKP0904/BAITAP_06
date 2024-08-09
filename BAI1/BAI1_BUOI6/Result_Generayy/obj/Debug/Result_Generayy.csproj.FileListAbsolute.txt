@@ -1,0 +1,9 @@
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\bin\Debug\Result_Generayy.dll
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\bin\Debug\Result_Generayy.pdb
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\bin\Debug\XuLI_GENERAY.dll
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\bin\Debug\XuLI_GENERAY.pdb
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\obj\Debug\Result_Generayy.csproj.AssemblyReference.cache
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\obj\Debug\Result_Generayy.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\obj\Debug\Result_G.9BB30E13.Up2Date
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\obj\Debug\Result_Generayy.dll
+D:\BAITAP_BE_06\BAI1\BAI1_BUOI6\Result_Generayy\obj\Debug\Result_Generayy.pdb

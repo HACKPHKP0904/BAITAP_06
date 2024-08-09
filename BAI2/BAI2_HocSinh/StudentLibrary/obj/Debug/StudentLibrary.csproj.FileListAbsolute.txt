@@ -1,0 +1,6 @@
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentLibrary\obj\Debug\StudentLibrary.pdb

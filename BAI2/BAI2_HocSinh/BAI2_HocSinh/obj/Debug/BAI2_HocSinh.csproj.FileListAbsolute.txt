@@ -1,0 +1,12 @@
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\BAI2_HocSinh.exe.config
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\BAI2_HocSinh.exe
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\BAI2_HocSinh.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\StudentLibrary.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\StudentManager.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\StudentLibrary.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\bin\Debug\StudentManager.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\obj\Debug\BAI2_HocSinh.csproj.AssemblyReference.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\obj\Debug\BAI2_HocSinh.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\obj\Debug\BAI2_Hoc.2D190E15.Up2Date
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\obj\Debug\BAI2_HocSinh.exe
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\BAI2_HocSinh\obj\Debug\BAI2_HocSinh.pdb

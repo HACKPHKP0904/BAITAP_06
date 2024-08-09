@@ -1,0 +1,9 @@
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\bin\Debug\StudentManager.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\bin\Debug\StudentManager.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\bin\Debug\StudentLibrary.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\bin\Debug\StudentLibrary.pdb
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\obj\Debug\StudentM.8DAA3114.Up2Date
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\obj\Debug\StudentManager.dll
+D:\BAITAP_BE_06\BAI2\BAI2_HocSinh\StudentManager\obj\Debug\StudentManager.pdb
